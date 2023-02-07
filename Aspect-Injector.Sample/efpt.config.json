@@ -1,0 +1,72 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "EPKDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Aspect_Injector.Sample",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BMS_PRO_SERVICE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_ACC_ACCOUNT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_ACC_ACCOUNT_TX]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_ACC_PAYMENTLINK]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_ACC_SUBSCRIBED_SERVICE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_ACC_TRA_TX]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_EXC_WHITELIST]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_PRO_PAYMENT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EPK_PRO_PROVIDER_SERVICE]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "REGGIECHEN-PC\\FETCDPSDB.EPKDB",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
